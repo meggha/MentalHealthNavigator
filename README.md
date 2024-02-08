@@ -99,21 +99,52 @@ We have combined multiple functionalities  into a single website with a user fri
 
 ## 🛠Project Setup
 
-Open the terminal and change directory to client:
-In the project directory, you can run:
+Clone the repository:
 
-### `npm start`
+Open a terminal window.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Use the git clone command followed by the URL of the repository you want to clone. For example, if the repository URL is https://github.com/example/my-app, type:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Bash
+`git clone https://github.com/example/my-app`
+Use code with caution. Learn more
+Replace https://github.com/example/my-app with the actual URL of your repository.
 
-Then open another terminal window and type :
-cd server
-npm run devStart to start the backend server
+Navigate to the project directory:
 
+In the terminal window, use the cd command to change directory to the folder where you cloned the repository. For example, if you cloned the repository into a folder named my-app, type:
+
+Bash
+`cd my-app`
+Use code with caution. Learn more
+Install frontend dependencies:
+
+Navigate to the client directory within the project:
+
+Bash
+`cd client`
+Use code with caution. Learn more
+Install the required frontend dependencies by running:
+
+Bash
+`npm install`
+Use code with caution. Learn more
+Install backend dependencies:
+
+Navigate back to the project root directory:
+
+Bash
+`cd ..`
+Use code with caution. Learn more
+Go to the server directory:
+
+Bash
+`cd server`
+Use code with caution. Learn more
+Install the required backend dependencies by running:
+
+Bash
+`npm install`
 ## 💻Usage
 
 1. <h5>Open two terminal windows:</h5>

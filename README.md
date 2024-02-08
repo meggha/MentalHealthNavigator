@@ -191,11 +191,20 @@ Add names of your mentors with their emails and links to their GitHub accounts
 - [Pranav Shukla](https://github.com/pranavshuklaa): shuklapranav999@gmail.com
 
 ## 📱Screenshots
-Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
+<img src="https://drive.google.com/uc?export=view&id=1BEJgTd98xm-YAjTFe6W4QC88nmD7eK16" alt="Home">
 
-You'll have to link the screenshots from your drive folder here.
+<img src="https://drive.google.com/uc?export=view&id=1tcQGdwFWx7M-LgxRpvsyhyLhsECov6RM" alt="Signup">
 
-![Screenshot alt text](https://i.redd.it/qp8ocyzvyj8a1.jpg "Here is a screenshot")
-<img src="https://drive.google.com/uc?export=view&id=1r-rfchBQjEOKQQIvFSRbGLBg2QEiC3pj" alt="Your Image Description">
-Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
-For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
+<img src="https://drive.google.com/uc?export=view&id=1XVG2y3aCOegt5QGl59Uszi3soQsPILfu" alt="Login">
+
+<img src="https://drive.google.com/uc?export=view&id=1bAAdpz80hCTSlmmKBehywsu72xffVpDH" alt="Write Blog">
+
+<img src="https://drive.google.com/uc?export=view&id=1bleZQqoPPNX1RcN0ZiBWQz5U12d2mvu4" alt="Show Blog">
+
+<img src="https://drive.google.com/uc?export=view&id=1bti3KbEfTae6LzpFsd3gZ5OiCSOk6euF" alt="Update Blog">
+
+<img src="https://drive.google.com/uc?export=view&id=1IceC3uqqVXbFBagLU49rbDS0upq95Jat" alt="Profile">
+<img src="https://drive.google.com/uc?export=view&id=1C65ZcYSzPrAHCAdtHXz0P6ZAYt90LP-u" alt="Personal Stories">
+<img src="https://drive.google.com/uc?export=view&id=1SCbz6TapFtv8t1F9te-LRf55VoxT3OrB" alt="Personality Test">
+<img src="https://drive.google.com/uc?export=view&id=1r-rfchBQjEOKQQIvFSRbGLBg2QEiC3pj" alt="Chatbot">
+

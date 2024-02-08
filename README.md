@@ -16,8 +16,8 @@
 <details>
 <summary>Table of Contents</summary>
 
-- [Description](#description) //sushant
-- [Links](#links)  //parth
+- [Description](#description) 
+- [Links](#links)  
 - [Tech Stack](#tech-stack) 
 - [Progress](#progress)
 - [Future Scope](#future-scope)
@@ -116,7 +116,26 @@ npm run devStart to start the backend server
 
 ## 💻Usage
 
->Steps to run your project once its setup. If you have an app or website, list how the user can go about using it.
+1. Open two terminal windows:
+  In Windows, press Windows + R, type cmd, and press Enter.
+  In macOS/Linux, open your preferred terminal application.
+2. Navigate to the project directory:
+  In both terminal windows, use the cd command to change directory to the root of your project folder. This folder should contain both client and server subdirectories.
+3. Run the frontend:
+  In one terminal window, type cd client and press Enter. This changes directory to the client subfolder.
+  Then, type npm start and press Enter. This will start the frontend development server.
+4. Run the backend:
+  In the other terminal window, type cd server and press Enter. This changes directory to the server subfolder.
+  Then, type npm run devStart and press Enter. This will start the backend development server.
+5. Access the web app:
+  Open a web browser.
+  In the address bar, type http://localhost:3000. This opens the frontend app running on the development server.
+
+Additional notes:
+
+- The frontend app will automatically reload in the browser whenever you make changes to the code.
+- You may see console messages related to the development process in both terminal windows.
+- Remember to stop the servers (Ctrl+C in most terminals) when you're done to avoid resource usage.
 
 ## 👨‍💻Team Members
 

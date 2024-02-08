@@ -78,7 +78,7 @@ export const Home = () =>{
                         <div className="card-body">
                             <h5 className="card-title">Understanding Mental Health</h5>
                             <p className="card-text">Learn about different mental health conditions and how they can affect individuals.</p>
-                            <a href="#" className="btn btn-primary">Read More</a>
+                            <a href="https://www.verywellmind.com/what-is-mental-health-2330755" className="btn btn-primary">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -88,7 +88,7 @@ export const Home = () =>{
                         <div className="card-body">
                             <h5 className="card-title">Find Support Groups</h5>
                             <p className="card-text">Connect with others who may be experiencing similar challenges. Support is crucial.</p>
-                            <a href="#" className="btn btn-primary">Explore Groups</a>
+                            <a href="https://themindclan.com/sharing_spaces/" className="btn btn-primary">Explore Groups</a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@ export const Home = () =>{
                         <div className="card-body">
                             <h5 className="card-title">Professional Help</h5>
                             <p className="card-text">Seek help from mental health professionals. Find therapists and counselors near you.</p>
-                            <a href="#" className="btn btn-primary">Find a Professional</a>
+                            <a href="https://www.betterhelp.com/" className="btn btn-primary">Find a Professional</a>
                         </div>
                     </div>
                 </div>

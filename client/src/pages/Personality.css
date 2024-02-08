@@ -1,0 +1,293 @@
+.checkbox-wrapper-31:hover .check {
+  stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper-31 {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+
+.checkbox-wrapper-31 .background {
+  fill: #ccc;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+  
+}
+
+.checkbox-wrapper-31 .stroke {
+  fill: none;
+  stroke: #fff;
+  stroke-miterlimit: 10;
+  stroke-width: 2px;
+  stroke-dashoffset: 100;
+  stroke-dasharray: 100;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+}
+
+.checkbox-wrapper-31 .check {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+  stroke-dashoffset: 22;
+  stroke-dasharray: 22;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+}
+
+.checkbox-wrapper-31 input[type=checkbox] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  margin: 0;
+  opacity: 0;
+  -appearance: none;
+  -webkit-appearance: none;
+}
+
+.checkbox-wrapper-31 input[type=checkbox]:hover {
+  cursor: pointer;
+}
+
+.checkbox-wrapper-31 input[type=checkbox]:checked + svg .background {
+  fill: #6cbe45;
+}
+
+.checkbox-wrapper-31 input[type=checkbox]:checked + svg .stroke {
+  stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper-31 input[type=checkbox]:checked + svg .check {
+  stroke-dashoffset: 0;
+}
+ .card1 {
+  position: relative;
+  width: 500px;
+  height: 350px;
+  border-radius: 14px;
+  margin: auto;
+  background-color: #FFF6E9;
+  z-index: 1111;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ }
+ .button2 {
+  width: 9em;
+  height: 3em;
+  border-radius: 30em;
+  font-size: 15px;
+  font-family: inherit;
+  border: none;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  margin: 10px 40px;
+ }
+ 
+ .button2::before {
+  content: '';
+  width: 0;
+  height: 3em;
+  border-radius: 30em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: linear-gradient(to right, #0fd850 0%, #f9f047 100%);
+  /* background-image: linear-gradient(to right, #FF5403 0%, #F90716 100%); */
+  transition: .5s ease;
+  display: block;
+  z-index: -1;
+ }
+ 
+ .button2:hover::before {
+  width: 9em;
+ }
+ @font-face {
+  font-family: 'SansPosterBold';
+  src: local('SansPosterBold'), url('../fonts/SansPosterBold.ttf') format('truetype'); 
+}
+
+/* Define the animation keyframes */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+/* Apply the animation to the .he class */
+.he {
+  animation: fadeInUp 1s ease-in-out forwards; /* Adjust duration, timing function, etc. as needed */
+  font-family: 'SansPosterBold', sans-serif; /* Your existing styles */
+  font-size: 50px;
+  color:#fff;
+}
+
+/* .he {
+  font-family: 'SansPosterBold', sans-serif; 
+  font-size:50px;
+} */
+/* 
+.container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.container {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  font-size: 20px;
+  user-select: none;
+}
+
+.container::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: "";
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  filter: blur(5px);
+  background-color: #b899ff;
+  background-image: radial-gradient(at 6% 13%, hsla(322,81%,60%,1) 0px, transparent 50%),
+radial-gradient(at 9% 59%, hsla(209,65%,71%,1) 0px, transparent 50%),
+radial-gradient(at 39% 16%, hsla(325,93%,79%,1) 0px, transparent 50%);
+}
+
+
+.checkmark {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+}
+
+
+.container input:checked ~ .checkmark {
+  height: 2em;
+  width: 2em;
+  border-radius: 50%;
+  position: relative;
+}
+
+.container input:checked ~ .checkmark::before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 65%;
+  height: 65%;
+  content: "";
+  border-radius: 50%;
+  background-color: #ff99f0;
+  background-image: radial-gradient(at 86% 29%, hsla(277,65%,76%,1) 0px, transparent 50%),
+  radial-gradient(at 13% 20%, hsla(54,73%,71%,1) 0px, transparent 50%),
+  radial-gradient(at 76% 0%, hsla(145,64%,69%,1) 0px, transparent 50%);
+  animation: animation__checked 600ms normal;
+}
+
+@keyframes animation__checked {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+
+  100% {
+    opacity: 100;
+    transform: scale(1);
+  }
+} */
+.checkbox-wrapper:hover .check {
+  stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.checkbox-wrapper .background {
+  /* fill: rgb(106, 121, 50); */
+  fill:#BFD8AF;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+}
+
+.checkbox-wrapper .stroke {
+  fill: none;
+  stroke: #fff;
+  stroke-miterlimit: 10;
+  stroke-width: 2px;
+  stroke-dashoffset: 100;
+  stroke-dasharray: 100;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+}
+
+.checkbox-wrapper .check {
+  fill: none;
+  stroke: #fff;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2px;
+  stroke-dashoffset: 22;
+  stroke-dasharray: 22;
+  transition: ease all 0.6s;
+  -webkit-transition: ease all 0.6s;
+}
+
+.checkbox-wrapper input[type=checkbox] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  margin: 0;
+  opacity: 0;
+  -appearance: none;
+  -webkit-appearance: none;
+}
+
+.checkbox-wrapper input[type=checkbox]:hover {
+  cursor: pointer;
+}
+#yespe,#nope:hover{
+  cursor: pointer;
+}
+
+.checkbox-wrapper input[type=checkbox]:checked + svg .background {
+  fill: #421c64;
+}
+
+.checkbox-wrapper input[type=checkbox]:checked + svg .stroke {
+  stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper input[type=checkbox]:checked + svg .check {
+  stroke-dashoffset: 0;
+}

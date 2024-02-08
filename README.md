@@ -31,14 +31,16 @@
 </details>
 
 ## 📝Description
+1. Login/Signup pages:user authentication is required to access features of this website.
 
-<<<<<<< HEAD
-Add your **project description** here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more *detailed README* in your project repository is encouraged, which can include build and use instructions etc.
-=======
-Add your *project description* here. Your project description should cover how your website/app works. That way you can convey what your project is without the need for anyone to view the code. A more detailed README in your project repository is encouraged, which can include build and use instructions etc.
->>>>>>> dfed6d7f6b6a8786672589f50b9a00bd767bce78
+2. Profile:Users can view and edit their profile details, such as their name, age, gender, location, preferred language, and contact information. 
 
-1. Include features and their usecases in bullet points
+3. Journaling:A react based webpage which allows users to maintain a digital journal where they can record their thoughts, feelings, and experiences. therapeutic practice that helps individuals process their emotions and track their mental health progress over time.
+
+4. Habit Tracking:Users can create custom habits to track, such as exercise, meditation, medication adherence, sleep patterns, or social interactions. 
+
+5. Personal stories:This section features real-life narratives and testimonials shared by individuals who have experienced mental health challenges, recovery journeys, or personal growth.
+
 
 ## 🔗Links
 
@@ -51,13 +53,6 @@ Add your *project description* here. Your project description should cover how y
 Add any more links/resources you used for your project
 
 ## 🤖Tech-Stack
-
-<<<<<<< HEAD
-Mention all languages/libraries/frameworks used in your project **domain-wise**   
-=======
-Mention all languages/libraries/frameworks used in your project *domain-wise*   
->>>>>>> dfed6d7f6b6a8786672589f50b9a00bd767bce78
-You can use icons too - find them [here](https://github.com/get-icon/geticon) 
 
 #### Front-end
 - HTML
@@ -84,36 +79,25 @@ You can use icons too - find them [here](https://github.com/get-icon/geticon)
 
 ## 📈Progress
 
-List down all the fully implemented features in your project
-
 - [x] Chatbot
 - [x] Login-Signup and logout functionality
 - [x] Journaling with update and delete functionality
 - [x] Profile page displaying biodata
 - [x] Fetch data using API
 - [x] Personality Test
-
-List down all the partially implemented features in your project
-
 - [ ] Habit tracker 
 - [ ] Personal stories
 
 ## 🔮Future Scope
-
-List down all the future plans for the project here
 
 - Nearby professional healthcare location
 - Connecting to therapist as a middleware
 
 ## 💸Applications
 
->How can your project do its part in solving a real-life problem? What are its possible applications? Can it be monetized? Describe here.
-
 We have combined multiple functionalities  into a single website with a user friendly chatbot. This website involves wellness features to help the users, a platform to connect, and a help-providing chatbot.
 
 ## 🛠Project Setup
-
->Include your project setup basics here. Steps for how someone else can setup your project on their machine. Add any relevant details as well.
 
 Open the terminal and change directory to client:
 In the project directory, you can run:
@@ -138,7 +122,7 @@ npm run devStart to start the backend server
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Parth Belose](https://github.com/): Email 
+- [Parth Belose](https://github.com/): Email : parthbelose2@gmail.com
 - [Sushant Bagul](https://github.com/): Email 
 - [Megha Wadher](https://github.com/): Email 
 - [Pranjali Narote](https://github.com/): Email 
@@ -147,8 +131,8 @@ Add names of your team members with their emails and links to their GitHub accou
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Pranav Janjani](https://github.com/): Email 
-- [Pranav Shukla](https://github.com/): Email 
+- [Pranav Janjani](https://github.com/pranavjanjani): Email : janjanipranav@gmail.com
+- [Pranav Shukla](https://github.com/pranavshuklaa): Email : shuklapranav999@gmail.com
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.

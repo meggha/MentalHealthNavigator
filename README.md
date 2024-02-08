@@ -111,41 +111,42 @@ Open a terminal window.
 Bash
 `git clone https://github.com/meggha/MentalHealthNavigator`
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 In the terminal window, use the cd command to change directory to the folder where you cloned the repository. For example, if you cloned the repository into a folder named my-app, type:
 
 Bash
 `cd my-app`
 
-Install frontend dependencies:
+**Install frontend dependencies:**
 
 Navigate to the client directory within the project:
 
 Bash
 `cd client`
 
-Install the required frontend dependencies by running:
+**Install the required frontend dependencies by running:**
 
 Bash
 `npm install`
 
-Install backend dependencies:
+**Install backend dependencies:**
 
 Navigate back to the project root directory:
 
 Bash
 `cd ..`
 
-Go to the server directory:
+**Go to the server directory:**
 
 Bash
 `cd server`
 
-Install the required backend dependencies by running:
+**Install the required backend dependencies by running:**
 
 Bash
 `npm install`
+
 ## 💻Usage
 
 1. <h5>Open two terminal windows:</h5>

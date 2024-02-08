@@ -75,7 +75,11 @@ Add any more links/resources you used for your project
 
 #### Natural language processing
 - Transformers
-
+- Accelerate 
+- Peft
+- Bitsandbytes
+- Torch
+- Langchain
 
 ## 📈Progress
 

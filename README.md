@@ -146,14 +146,18 @@ Bash
 1. <h5>Open two terminal windows:</h5>
   In Windows, press Windows + R, type cmd, and press Enter.
   In macOS/Linux, open your preferred terminal application.
+
 2. <h5>Navigate to the project directory:</h5>
   In both terminal windows, use the cd command to change directory to the root of your project folder. This folder should contain both client and server subdirectories.
+
 3. <h5>Run the frontend:</h5>
   In one terminal window, type cd client and press Enter. This changes directory to the client subfolder.
   Then, type npm start and press Enter. This will start the frontend development server.
+
 4. <h5>Run the backend:</h5>
   In the other terminal window, type cd server and press Enter. This changes directory to the server subfolder.
   Then, type npm run devStart and press Enter. This will start the backend development server.
+  
 5. <h5>Access the web app:</h5>
   Open a web browser.
   In the address bar, type http://localhost:3000. This opens the frontend app running on the development server.

@@ -49,8 +49,7 @@ Mental health problems are a major public health issue, affecting millions of pe
 ## 🔗Links
 
 - [GitHub Repository](https://github.com/meggha/MentalHealthNavigator)
-- [Demo Video]()
-- [Drive Link to Screenshots of your project](https://drive.google.com/drive/folders/10GqGwYIkumCm5IIRo5NhHbTRG3F0QBzz?usp=drive_link)
+- [Drive Link to Screenshots of the project](https://drive.google.com/drive/folders/10GqGwYIkumCm5IIRo5NhHbTRG3F0QBzz?usp=drive_link)
 
 ## 🤖Tech-Stack
 

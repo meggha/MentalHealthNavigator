@@ -116,7 +116,7 @@ npm run devStart to start the backend server
 
 ## 💻Usage
 
-1. Open two terminal windows:
+1. <h3>Open two terminal windows:</h3>
   In Windows, press Windows + R, type cmd, and press Enter.
   In macOS/Linux, open your preferred terminal application.
 2. Navigate to the project directory:

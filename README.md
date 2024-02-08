@@ -145,17 +145,17 @@ Additional notes:
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Megha Wadher](https://github.com/meggha): Email 
-- [Parth Belose](https://github.com/): Email : parthbelose2@gmail.com
-- [Sushant Bagul](https://github.com/sushant607): Email : sushantbagul607@gmail.com
+- [Megha Wadher](https://github.com/meggha): megha.wadher@gmail.com
+- [Parth Belose](https://github.com/): parthbelose2@gmail.com
+- [Sushant Bagul](https://github.com/sushant607): sushantbagul607@gmail.com
 - [Pranjali Narote](https://github.com/JustPranjali): Email 
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Pranav Janjani](https://github.com/pranavjanjani): Email : janjanipranav@gmail.com
-- [Pranav Shukla](https://github.com/pranavshuklaa): Email : shuklapranav999@gmail.com
+- [Pranav Janjani](https://github.com/pranavjanjani): janjanipranav@gmail.com
+- [Pranav Shukla](https://github.com/pranavshuklaa): shuklapranav999@gmail.com
 
 ## 📱Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
@@ -166,8 +166,3 @@ You'll have to link the screenshots from your drive folder here.
 
 Use this template as a guide for writing your documentation. Feel free to customize and adapt it for you project.  
 For more Markdown syntax help, visit [here](https://www.markdownguide.org/basic-syntax/)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> dfed6d7f6b6a8786672589f50b9a00bd767bce78

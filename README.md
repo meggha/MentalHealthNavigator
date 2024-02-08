@@ -33,9 +33,9 @@
 ## 📝Description
 1. Login/Signup pages:user authentication is required to access features of this website.
 
-2. Profile:Users can view and edit their profile details, such as their name, age, gender, location, preferred language, and contact information. 
+2. Profile:Users can view and enter their profile details, such as their name, age, gender and write reviews. 
 
-3. Journaling:A react based webpage which allows users to maintain a digital journal where they can record their thoughts, feelings, and experiences. therapeutic practice that helps individuals process their emotions and track their mental health progress over time.
+3. Journaling:A react based webpage which allows users to maintain a digital journal where they can record their thoughts, feelings, and experiences. Therapeutic practice that helps individuals process their emotions and track their mental health progress over time.
 
 4. Habit Tracking:Users can create custom habits to track, such as exercise, meditation, medication adherence, sleep patterns, or social interactions. 
 
@@ -103,12 +103,8 @@ Clone the repository:
 
 Open a terminal window.
 
-Use the git clone command followed by the URL of the repository you want to clone. For example, if the repository URL is https://github.com/example/my-app, type:
-
 Bash
-`git clone https://github.com/example/my-app`
-Use code with caution. Learn more
-Replace https://github.com/example/my-app with the actual URL of your repository.
+`git clone https://github.com/meggha/MentalHealthNavigator`
 
 Navigate to the project directory:
 
@@ -116,31 +112,31 @@ In the terminal window, use the cd command to change directory to the folder whe
 
 Bash
 `cd my-app`
-Use code with caution. Learn more
+
 Install frontend dependencies:
 
 Navigate to the client directory within the project:
 
 Bash
 `cd client`
-Use code with caution. Learn more
+
 Install the required frontend dependencies by running:
 
 Bash
 `npm install`
-Use code with caution. Learn more
+
 Install backend dependencies:
 
 Navigate back to the project root directory:
 
 Bash
 `cd ..`
-Use code with caution. Learn more
+
 Go to the server directory:
 
 Bash
 `cd server`
-Use code with caution. Learn more
+
 Install the required backend dependencies by running:
 
 Bash

@@ -31,15 +31,20 @@
 </details>
 
 ## 📝Description
-1. Login/Signup pages:user authentication is required to access features of this website.
 
-2. Profile:Users can view and enter their profile details, such as their name, age, gender and write reviews. 
+Mental health problems are a major public health issue, affecting millions of people around the world. Many people with mental health problems do not seek help, due to stigma, fear, or lack of access to care.Mental health websites can play a vital role in providing information and support to people with mental health problems and their loved ones.The Website has following features
 
-3. Journaling:A react based webpage which allows users to maintain a digital journal where they can record their thoughts, feelings, and experiences. Therapeutic practice that helps individuals process their emotions and track their mental health progress over time.
+1. Health Chatbot: We have used LLama-2 model and fine tuned it with hugging face dataset.The model returns health advice according to user inputs (Hugging Face Dataset:https://huggingface.co/datasets/vibhorag101/phr_mental_therapy_dataset)
 
-4. Habit Tracking:Users can create custom habits to track, such as exercise, meditation, medication adherence, sleep patterns, or social interactions. 
+2. Login/Signup pages:user authentication is required to access features of this website.
 
-5. Personal stories:This section features real-life narratives and testimonials shared by individuals who have experienced mental health challenges, recovery journeys, or personal growth.
+3. Profile:Users can view and enter their profile details, such as their name, age, gender and write reviews. 
+
+4. Journaling:A react based webpage which allows users to maintain a digital journal where they can record their thoughts, feelings, and experiences. Therapeutic practice that helps individuals process their emotions and track their mental health progress over time.
+
+5. Habit Tracking:Users can create custom habits to track, such as exercise, meditation, medication adherence, sleep patterns, or social interactions. 
+
+6. Personal stories:This section features real-life narratives and testimonials shared by individuals who have experienced mental health challenges, recovery journeys, or personal growth.
 
 
 ## 🔗Links
@@ -157,7 +162,7 @@ Bash
 4. <h5>Run the backend:</h5>
   In the other terminal window, type cd server and press Enter. This changes directory to the server subfolder.
   Then, type npm run devStart and press Enter. This will start the backend development server.
-  
+
 5. <h5>Access the web app:</h5>
   Open a web browser.
   In the address bar, type http://localhost:3000. This opens the frontend app running on the development server.

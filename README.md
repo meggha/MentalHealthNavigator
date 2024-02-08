@@ -9,7 +9,6 @@
 <div align="center">
    <strong>Mental Health Navigator</strong> - A mental wellness website focusing on self care and integrated chatbot<br>
   CoC Inheritance 2023 || CodeCrafters <br> <br>
-  Add any <a href="https://shields.io/">Shields</a> here
 </div>
 <hr>
 
@@ -164,6 +163,9 @@ Bash
   In the other terminal window, type cd server and press Enter. This changes directory to the server subfolder.
   Then, type npm run devStart and press Enter. This will start the backend development server.
 
+5. <h5>For the chatbot</h5>
+  - If you have GPU then make sure you have cuda installed and then run app.py
+  - Or you can also run server.py on colab. After running this you will get a link in the output. Make sure to replace the link in `client\src\bot\ActionProvider.jsx` line 12
 5. <h5>Access the web app:</h5>
   Open a web browser.
   In the address bar, type http://localhost:3000. This opens the frontend app running on the development server.
@@ -178,17 +180,17 @@ Additional notes:
 
 Add names of your team members with their emails and links to their GitHub accounts
 
-- [Megha Wadher](https://github.com/meggha): megha.wadher@gmail.com
-- [Parth Belose](https://github.com/): parthbelose2@gmail.com
-- [Sushant Bagul](https://github.com/sushant607): sushantbagul607@gmail.com
-- [Pranjali Narote](https://github.com/JustPranjali): Email 
+- [Megha Wadher](https://github.com/meggha):  megha.wadher@gmail.com
+- [Parth Belose](https://github.com/):  parthbelose2@gmail.com
+- [Sushant Bagul](https://github.com/sushant607):  sushantbagul607@gmail.com
+- [Pranjali Narote](https://github.com/JustPranjali):  pranjalinarote2@gmail.com
 
 ## 👨‍🏫Mentors
 
 Add names of your mentors with their emails and links to their GitHub accounts
 
-- [Pranav Janjani](https://github.com/pranavjanjani): janjanipranav@gmail.com
-- [Pranav Shukla](https://github.com/pranavshuklaa): shuklapranav999@gmail.com
+- [Pranav Janjani](https://github.com/pranavjanjani):  janjanipranav@gmail.com
+- [Pranav Shukla](https://github.com/pranavshuklaa):  shuklapranav999@gmail.com
 
 ## 📱Screenshots
 <img src="https://drive.google.com/uc?export=view&id=1BEJgTd98xm-YAjTFe6W4QC88nmD7eK16" alt="Home">

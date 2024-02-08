@@ -122,10 +122,10 @@ npm run devStart to start the backend server
 
 Add names of your team members with their emails and links to their GitHub accounts
 
+- [Megha Wadher](https://github.com/meggha): Email 
 - [Parth Belose](https://github.com/): Email : parthbelose2@gmail.com
-- [Sushant Bagul](https://github.com/): Email 
-- [Megha Wadher](https://github.com/): Email 
-- [Pranjali Narote](https://github.com/): Email 
+- [Sushant Bagul](https://github.com/sushant607): Email : sushantbagul607@gmail.com
+- [Pranjali Narote](https://github.com/JustPranjali): Email 
 
 ## 👨‍🏫Mentors
 

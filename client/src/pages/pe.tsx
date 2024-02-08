@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Card } from "react-bootstrap";
 import "./Personality.css";
 import pebg from  '../img/pebg.jpeg';
+import demo from '../img/demo.jpeg';
 interface Question {
   q: string;
   f: string;
@@ -190,19 +191,22 @@ export const PersonalityTest: React.FC = () => {
   return (
     <div
       style={{
-        // backgroundImage: `url(${pebg})`,       
+        // backgroundImage: `url(${pebg})`, 
+        backgroundImage:`url(${demo})`,      
         height: "100%",
         margin: "0",
-        padding: "0",backgroundColor:"yellow"
+        padding: "0"
       }}
     >
       <div style={{ 
         // backgroundImage: `url(${pebg})`
-        height:"100%"
+        
+        backgroundImage:`url(${demo})`,
+        height:"100%",
 
         }}>
         {(personalityType && careerChoices) || submitButtonClicked ? (
-          <div className="output" style={{backgroundColor:"yellow",height:"100%"}}>
+          <div className="output" style={{backgroundImage: `url(${demo})`,height:"100%"}}>
             <h2 style={{textAlign:"center"}}>Your Personality Type: {personalityType}</h2>
             <h4>Recommended Career Choices:</h4>
             <p>{careerChoices}</p>

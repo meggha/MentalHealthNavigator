@@ -164,7 +164,7 @@ Bash
 
 5. <h5>For the chatbot</h5>
   - If you have GPU then make sure you have cuda installed and then run app.py
-  - Or you can also run server.py on colab. After running this you will get a link in the output. Make sure to replace the link in `client\src\bot\ActionProvider.jsx` line 12
+  - Or you can also run server.ipynb on colab. After running this you will get a link in the output. Make sure to replace the link in `client\src\bot\ActionProvider.jsx` line 12
 5. <h5>Access the web app:</h5>
   Open a web browser.
   In the address bar, type http://localhost:3000. This opens the frontend app running on the development server.

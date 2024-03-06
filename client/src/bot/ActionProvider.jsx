@@ -9,7 +9,7 @@ const ActionProvider = ({ createChatBotMessage, setState, children }) => {
     setIsLoading(true);
     setError(null);
     try {
-      const response = await axios.post('https://e680-35-194-181-27.ngrok-free.app', { message });
+      const response = await axios.post('https://b4f7-34-30-157-55.ngrok-free.app', { message });
       if (response.status !== 200) {
         throw new Error(`HTTP error: ${response.status}`);
       }
